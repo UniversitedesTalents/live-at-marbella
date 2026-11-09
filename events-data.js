@@ -4,23 +4,23 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-16",
       "id": "rosir-16",
-      "title": "Rosir Atelier · Watercolour Workshop",
+      "title": "Rosir Atelier",
       "start": "17:30",
       "end": "18:30",
       "location": "Bar Rouge",
-      "description": "Try your hand at watercolour with Inès and take home your own hand-painted creation.",
+      "description": "Join Inès for a watercolour workshop and take home your own hand-painted creation.",
       "image": "assets/rosir-atelier.jpg",
       "imagePosition": "center"
     },
     {
       "date": "2026-11-16",
       "id": "magic-16",
-      "title": "Close-up Magic",
+      "title": "Valentin Magicien",
       "start": "19:00",
       "end": "20:00",
       "location": "Bar Rouge",
-      "description": "Catch Steven & Orélie’s sleight of hand as they perform close-up magic around the bar.",
-      "image": "assets/close-up-magic.jpg",
+      "description": "Watch Valentin bring magic and mentalism up close as he performs around the bar.",
+      "image": "assets/valentin-magicien.jpg",
       "imagePosition": "center"
     },
     {
@@ -48,11 +48,11 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-17",
       "id": "rosir-17",
-      "title": "Rosir Atelier · Watercolour Workshop",
+      "title": "Rosir Atelier",
       "start": "17:30",
       "end": "18:30",
       "location": "Bar Rouge",
-      "description": "Try your hand at watercolour with Inès and take home your own hand-painted creation.",
+      "description": "Join Inès for a watercolour workshop and take home your own hand-painted creation.",
       "image": "assets/rosir-atelier.jpg",
       "imagePosition": "center"
     },
@@ -70,12 +70,12 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-17",
       "id": "magic-17",
-      "title": "Close-up Magic",
+      "title": "Valentin Magicien",
       "start": "19:00",
       "end": "20:00",
       "location": "Bar Rouge",
-      "description": "Catch Steven & Orélie’s sleight of hand as they perform close-up magic around the bar.",
-      "image": "assets/close-up-magic.jpg",
+      "description": "Watch Valentin bring magic and mentalism up close as he performs around the bar.",
+      "image": "assets/valentin-magicien.jpg",
       "imagePosition": "center"
     },
     {
@@ -92,7 +92,7 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-17",
       "id": "vaaro-nightclub-17",
-      "title": "Vaaro · Nightclub DJ Set",
+      "title": "Vaaro Nightclub DJ Set",
       "start": "22:30",
       "end": "00:00",
       "location": "Nightclub",
@@ -103,18 +103,18 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-18",
       "id": "rosir-18",
-      "title": "Rosir Atelier · Watercolour Workshop",
+      "title": "Rosir Atelier",
       "start": "17:30",
       "end": "18:30",
       "location": "Bar Rouge",
-      "description": "Try your hand at watercolour with Inès and take home your own hand-painted creation.",
+      "description": "Join Inès for a watercolour workshop and take home your own hand-painted creation.",
       "image": "assets/rosir-atelier.jpg",
       "imagePosition": "center"
     },
     {
       "date": "2026-11-18",
       "id": "vaaro-aperitif-18",
-      "title": "Vaaro · Aperitif DJ Set",
+      "title": "Vaaro Aperitif DJ Set",
       "start": "18:45",
       "end": "20:00",
       "location": "Bar Rouge",
@@ -125,12 +125,12 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-18",
       "id": "magic-18",
-      "title": "Close-up Magic",
+      "title": "Valentin Magicien",
       "start": "19:00",
       "end": "20:00",
       "location": "Bar Rouge",
-      "description": "Catch Steven & Orélie’s sleight of hand as they perform close-up magic around the bar.",
-      "image": "assets/close-up-magic.jpg",
+      "description": "Watch Valentin bring magic and mentalism up close as he performs around the bar.",
+      "image": "assets/valentin-magicien.jpg",
       "imagePosition": "center"
     },
     {
@@ -159,11 +159,11 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-19",
       "id": "rosir-19",
-      "title": "Rosir Atelier · Watercolour Workshop",
+      "title": "Rosir Atelier",
       "start": "17:30",
       "end": "18:30",
       "location": "Bar Rouge",
-      "description": "Try your hand at watercolour with Inès and take home your own hand-painted creation.",
+      "description": "Join Inès for a watercolour workshop and take home your own hand-painted creation.",
       "image": "assets/rosir-atelier.jpg",
       "imagePosition": "center"
     },
@@ -181,12 +181,12 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-19",
       "id": "magic-19",
-      "title": "Close-up Magic",
+      "title": "Valentin Magicien",
       "start": "19:00",
       "end": "20:00",
       "location": "Bar Rouge",
-      "description": "Catch Steven & Orélie’s sleight of hand as they perform close-up magic around the bar.",
-      "image": "assets/close-up-magic.jpg",
+      "description": "Watch Valentin bring magic and mentalism up close as he performs around the bar.",
+      "image": "assets/valentin-magicien.jpg",
       "imagePosition": "center"
     },
     {
@@ -203,7 +203,7 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-19",
       "id": "vaaro-nightclub-19",
-      "title": "Vaaro · Nightclub DJ Set",
+      "title": "Vaaro Nightclub DJ Set",
       "start": "22:30",
       "end": "00:00",
       "location": "Nightclub",
