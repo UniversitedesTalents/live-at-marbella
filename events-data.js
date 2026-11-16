@@ -39,9 +39,9 @@ window.MARBELLA_LIVE = {
       "date": "2026-11-16",
       "id": "flamenco",
       "title": "Flamenco Night",
-      "start": "22:00",
+      "start": "21:30",
       "end": "01:00",
-      "location": "Bar Rouge",
+      "location": "Magna 2",
       "description": "Lose yourself in the rhythms of Andalusia.",
       "image": "assets/flamenco.jpg",
       "imagePosition": "50% 50%"
