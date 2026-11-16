@@ -15,13 +15,14 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-16",
       "id": "magic-16",
-      "title": "Valentin Magicien",
+      "title": "Steven & Orélie",
       "start": "19:00",
       "end": "20:00",
       "location": "Bar Rouge",
-      "description": "Watch Valentin bring magic and mentalism up close as he performs around the bar.",
-      "image": "assets/valentin-magicien.jpg",
-      "imagePosition": "center"
+      "description": "Enjoy close-up magic with magician duo Steven & Orélie.",
+      "image": "assets/steven-orelie.jpg",
+      "imagePosition": "center",
+      "imageAspectRatio": "3 / 2"
     },
     {
       "date": "2026-11-16",
@@ -70,13 +71,14 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-17",
       "id": "magic-17",
-      "title": "Valentin Magicien",
+      "title": "Steven & Orélie",
       "start": "19:00",
       "end": "20:00",
       "location": "Bar Rouge",
-      "description": "Watch Valentin bring magic and mentalism up close as he performs around the bar.",
-      "image": "assets/valentin-magicien.jpg",
-      "imagePosition": "center"
+      "description": "Enjoy close-up magic with magician duo Steven & Orélie.",
+      "image": "assets/steven-orelie.jpg",
+      "imagePosition": "center",
+      "imageAspectRatio": "3 / 2"
     },
     {
       "date": "2026-11-17",
@@ -125,13 +127,14 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-18",
       "id": "magic-18",
-      "title": "Valentin Magicien",
+      "title": "Steven & Orélie",
       "start": "19:00",
       "end": "20:00",
       "location": "Bar Rouge",
-      "description": "Watch Valentin bring magic and mentalism up close as he performs around the bar.",
-      "image": "assets/valentin-magicien.jpg",
-      "imagePosition": "center"
+      "description": "Enjoy close-up magic with magician duo Steven & Orélie.",
+      "image": "assets/steven-orelie.jpg",
+      "imagePosition": "center",
+      "imageAspectRatio": "3 / 2"
     },
     {
       "date": "2026-11-18",
@@ -181,13 +184,14 @@ window.MARBELLA_LIVE = {
     {
       "date": "2026-11-19",
       "id": "magic-19",
-      "title": "Valentin Magicien",
+      "title": "Steven & Orélie",
       "start": "19:00",
       "end": "20:00",
       "location": "Bar Rouge",
-      "description": "Watch Valentin bring magic and mentalism up close as he performs around the bar.",
-      "image": "assets/valentin-magicien.jpg",
-      "imagePosition": "center"
+      "description": "Enjoy close-up magic with magician duo Steven & Orélie.",
+      "image": "assets/steven-orelie.jpg",
+      "imagePosition": "center",
+      "imageAspectRatio": "3 / 2"
     },
     {
       "date": "2026-11-19",
